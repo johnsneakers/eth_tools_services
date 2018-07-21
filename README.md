@@ -1,6 +1,7 @@
 # eth_tools_services
 #### Dependence:
 * go-ethereum
+* gin-gonic/gin
 
 
 #### Now Avaliable:
