@@ -1,0 +1,20 @@
+{
+  "address":"0x60000707812D55b96175a380FD039388c3Fc8B7d",
+  "key_file":keystorefile location"",
+  "pwd":"123456",
+  "token":[
+    {
+      "name":"eth",
+      "token_addr":""
+    },
+    {
+      "name":"pmd",
+      "token_addr":"0x89700D6Cd7b77D1F52c29cA776a1EAe313320fC5",
+      "decimal_num":18
+    }
+  ],
+  "gas_price":25,
+  "out_url":"https://mainnet.infura.io/NwKL8Ka7O849EtazVTuU",
+  "network":1,
+  "comment":"这是一条注释,network: 1-主网,3-Ropsten,4-Rinkeby,42-Kovan"
+}
